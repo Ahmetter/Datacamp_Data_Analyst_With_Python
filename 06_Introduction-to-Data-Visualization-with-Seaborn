@@ -1,0 +1,8 @@
+Introduction_to_Seaborn
+
+Seaborn, verileri görselleştirmek için kullanılan bir Python kütüphanesidir.
+En yaygın plot tiplerini oluşturmayı kolaylaştırmak için geliştirilmiştir.
+
+Seaborn'un amacı veri görselleştirmeyi kolaylaştırmaktır.
+Pandas veri yapısıyla iyi çalışır.
+matplotlib kütüphanesi üzerine inşa edilmiştir. Bu sebeple esnekliğe sahiptir.
